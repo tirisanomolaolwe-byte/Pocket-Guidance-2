@@ -1,7 +1,0 @@
-app/build
-build
-.gradle
-local.properties
-*.apk
-*.aab
-*.dex
