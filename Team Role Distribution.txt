@@ -1,0 +1,23 @@
+Katlego Kwakwari (ST1044080) - Backend / Database Engineer
+-Designed Room database
+-Created DAOs
+-Managed repositories
+-Ensured data integrity
+
+Phumudzo Munyai(ST10450008) - UI/UX Developer
+-Built Compose screens
+-Designed layouts (Login, Dashboard, Expense)
+-Ensured user-friendly design
+-Handled input validation UI
+
+Katlego Makhuba(ST10366193)- Logic / ViewModel Engineer
+-Implemented ViewModels
+-Connected UI to database
+-Managed state (Live updates, Flow)
+-Implemented business rules (budget alerts, rewards)
+
+Tirisano Molaolwe(ST10455374)- DevOps / Integration
+-Set up GitHub repo
+-Managed branches
+-Implemented CI/CD (GitHub Actions)
+-Testing + final integration

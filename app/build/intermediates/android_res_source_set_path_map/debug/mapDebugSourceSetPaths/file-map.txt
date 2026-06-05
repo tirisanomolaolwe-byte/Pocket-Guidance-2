@@ -1,0 +1,9 @@
+com.example.pocketguidance.app-pngs-0 C:\Users\DELL\AndroidStudioProjects\PocketGuidance2\app\build\generated\res\pngs\debug
+com.example.pocketguidance.app-resValues-1 C:\Users\DELL\AndroidStudioProjects\PocketGuidance2\app\build\generated\res\resValues\debug
+com.example.pocketguidance.app-updated_navigation_xml-2 C:\Users\DELL\AndroidStudioProjects\PocketGuidance2\app\build\generated\updated_navigation_xml\debug
+com.example.pocketguidance.app-packageDebugResources-3 C:\Users\DELL\AndroidStudioProjects\PocketGuidance2\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.pocketguidance.app-packageDebugResources-4 C:\Users\DELL\AndroidStudioProjects\PocketGuidance2\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.pocketguidance.app-debug-5 C:\Users\DELL\AndroidStudioProjects\PocketGuidance2\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.pocketguidance.app-debug-6 C:\Users\DELL\AndroidStudioProjects\PocketGuidance2\app\src\debug\res
+com.example.pocketguidance.app-main-7 C:\Users\DELL\AndroidStudioProjects\PocketGuidance2\app\src\main\res
+gradleHome-0 C:\Users\DELL\.gradle
